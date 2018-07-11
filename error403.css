@@ -1,0 +1,38 @@
+body{
+    background-color: darkgray;
+    background-image: url(../images/error/erreur-403.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 50%;
+    
+   
+}
+
+
+
+ button {
+
+    border:none;
+    background:rgba(0,0,0,0);
+    padding:3px 6px; 
+    width: 220px;
+    height: 60px;
+    cursor:pointer;
+    border:1px solid #2dba4e;
+    transition:.5s linear;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-left: 42%;
+    margin-top: 20px;
+}
+
+ button:hover {
+
+    background:#2dba4e;
+    color: #fff ;
+}
+
+h1 {
+    margin-left: 32%;
+   
+}
